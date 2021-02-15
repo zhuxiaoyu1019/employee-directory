@@ -1,0 +1,32 @@
+.root {
+    padding: 2px 4px;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.form {
+    padding: 2px 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+}
+
+.input {
+    margin-left: 8px；
+}
+
+.iconButton {
+    padding: 10px;
+}
+
+.clear-btn {
+    color: grey !important;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-left: 5px !important;
+}
